@@ -1,0 +1,3 @@
+Flask
+guicorn
+mysql-connector-python
